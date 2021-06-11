@@ -1,0 +1,20 @@
+Felicidades usted ha ganado el juego
+Nombre: Juan
+Apellido: Perez
+Punteo total: 97
+Felicidades usted ha ganado el juego
+Nombre: Carlos
+Apellido: Mesa
+Punteo total: 74
+Felicidades usted ha ganado el juego
+Nombre: Carlos
+Apellido: Mesa
+Punteo total: 30
+Felicidades usted ha ganado el juego
+Nombre: Carlos
+Apellido: Mesa
+Punteo total: 37
+Felicidades usted ha ganado el juego
+Nombre: Carlos
+Apellido: Mesa
+Punteo total: 94
